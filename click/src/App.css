@@ -1,0 +1,23 @@
+/* Style for the container */
+.click-counter-container {
+  text-align: center;
+  margin: 20px;
+}
+
+/* Style for the button */
+.click-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Style for the click count paragraph */
+.click-count {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #333;
+}

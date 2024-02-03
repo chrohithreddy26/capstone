@@ -1,0 +1,23 @@
+/* RegisterForm.css */
+div {
+  text-align: center;
+  margin: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border-radius: 1px;
+  cursor: pointer;
+}
